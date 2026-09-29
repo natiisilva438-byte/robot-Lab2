@@ -1,0 +1,33 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+[31m[rviz-3] escalating to SIGTERM[0m
+... logging to /root/.ros/log/317f716c-b9c9-11f1-abf1-0242ac110004/roslaunch-autodl-container-9804448da5-1aca5e42-20267.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/root/vnav_make_ws/src/two_drones_pkg/launch/two_drones.launch
+[1mstarted roslaunch server http://localhost:37445/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: noetic
+ * /rosversion: 1.17.4
+
+NODES
+  /
+    frames_publisher_node (two_drones_pkg/frames_publisher_node)
+    plots_publisher_node (two_drones_pkg/plots_publisher_node)
+    rviz (rviz/rviz)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/root/vnav_make_ws/src/two_drones_pkg/launch/two_drones.launch http://localhost:11311
+[1mprocess[frames_publisher_node-1]: started with pid [20318][0m
+[1mprocess[plots_publisher_node-2]: started with pid [20319][0m
+[1mprocess[rviz-3]: started with pid [20321][0m
+[rviz-3] killing on exit
+[plots_publisher_node-2] killing on exit
+[frames_publisher_node-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

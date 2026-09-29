@@ -1,0 +1,40 @@
+--------------------------------------------------
+Profile:                     default
+Extending:             [env] /opt/ros/noetic
+Workspace:                   /root/vnav_ws
+--------------------------------------------------
+Build Space:        [exists] /root/vnav_ws/build
+Devel Space:        [exists] /root/vnav_ws/devel
+Install Space:      [unused] /root/vnav_ws/install
+Log Space:          [exists] /root/vnav_ws/logs
+Source Space:       [exists] /root/vnav_ws/src
+DESTDIR:            [unused] None
+--------------------------------------------------
+Devel Space Layout:          linked
+Install Space Layout:        None
+--------------------------------------------------
+Additional CMake Args:       None
+Additional Make Args:        -j1
+Additional catkin Make Args: None
+Internal Make Job Server:    True
+Cache Job Environments:      False
+--------------------------------------------------
+Buildlisted Packages:        None
+Skiplisted Packages:         None
+--------------------------------------------------
+Workspace configuration appears valid.
+--------------------------------------------------
+[build] Found 1 packages in 0.0 seconds.                                       
+[build] Package table is up to date.                                           
+Warning: generated devel space setup files have been deleted.
+Starting >>> catkin_tools_prebuild               
+Finished <<< catkin_tools_prebuild                [ 1 minute and 48.0 seconds ]
+Starting >>> two_drones_pkg                      
+Finished <<< two_drones_pkg                       [ 6 minutes and 40.6 seconds ]
+[build] Summary: All 2 packages succeeded!
+[build] Ignored: None.
+[build] Warnings: None.
+[build] Abandoned: No packages were abandoned.
+[build] Failed: No packages failed.
+[build] Runtime: 8 minutes and 29.8 seconds total.
+[build] Note: Workspace packages have changed, please re-source setup files to use them.

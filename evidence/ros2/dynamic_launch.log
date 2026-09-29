@@ -1,0 +1,15 @@
+[INFO] [launch]: All log files can be found below /root/.ros/log/2026-09-27-00-05-07-526987-autodl-container-9804448da5-1aca5e42-4196
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [frames_publisher_node-1]: process started with pid [4198]
+[INFO] [plots_publisher_node-2]: process started with pid [4200]
+[INFO] [rviz2-3]: process started with pid [4202]
+[plots_publisher_node-2] [INFO] [1790438708.096663401] [plots_publisher_node]: Started plot node
+[plots_publisher_node-2] [INFO] [1790438708.102051044] [plots_publisher_node]: about to start heartbeat
+[plots_publisher_node-2] [INFO] [1790438708.102107254] [plots_publisher_node]: started heartbeat
+[plots_publisher_node-2] [ERROR] [1790438708.122411538] [plots_publisher_node]: transform lookup failed: "world" passed to lookupTransform argument target_frame does not exist. 
+[plots_publisher_node-2] [ERROR] [1790438708.122495376] [plots_publisher_node]: transform lookup failed: "world" passed to lookupTransform argument target_frame does not exist. 
+[plots_publisher_node-2] [ERROR] [1790438708.122518829] [plots_publisher_node]: transform lookup failed: "av1" passed to lookupTransform argument target_frame does not exist. 
+[rviz2-3] QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+[rviz2-3] [INFO] [1790438708.906274646] [rviz2]: Stereo is NOT SUPPORTED
+[rviz2-3] [INFO] [1790438708.906393046] [rviz2]: OpenGl version: 4.5 (GLSL 4.5)
+[rviz2-3] [INFO] [1790438709.032469651] [rviz2]: Stereo is NOT SUPPORTED

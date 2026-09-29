@@ -1,0 +1,8 @@
+samples=30 marker_arrays=139 marker_count_set=[5]
+max_av1_radius_error=2.22044605e-16
+max_av1_yaw_error=7.77156117e-16
+max_av2_parabola_error=2.22044605e-16
+max_relative_plane_error=4.4408921e-16
+max_relative_ellipse_error=1.77635684e-15
+max_relative_composition_error=0.04260143
+PASS: live ROS 1 Noetic transforms and visualization markers

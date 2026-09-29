@@ -1,0 +1,4 @@
+av1 translation=(1.0, 0.0, 0.0) rotation=(0.0, 0.0, 0.0, 1.0)
+av2 translation=(0.0, 0.0, 1.0) rotation=(0.0, 0.0, 0.0, 1.0)
+marker_count=5
+PASS: static ROS 1 Noetic transforms and visualization markers

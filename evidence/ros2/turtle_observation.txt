@@ -1,0 +1,25 @@
+BEFORE
+x: 5.544444561004639
+y: 5.544444561004639
+theta: 0.0
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+AFTER
+x: 5.677566051483154
+y: 7.534426212310791
+theta: 2.992000102996826
+linear_velocity: 1.0
+angular_velocity: 1.0
+---
+CMD_VEL
+linear:
+  x: 1.0
+  y: 0.0
+  z: 0.0
+angular:
+  x: 0.0
+  y: 0.0
+  z: 1.0
+---
+CONTROLLER_EXIT:0

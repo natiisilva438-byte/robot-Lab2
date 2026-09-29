@@ -1,0 +1,39 @@
+NAME="Ubuntu"
+VERSION="20.04 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04 LTS"
+VERSION_ID="20.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
+noetic
+/root/vnav_ws/src/two_drones_pkg
+/av1broadcaster
+/av2broadcaster
+/plots_publisher_node
+/rosout
+/rviz
+Type: tf2_msgs/TFMessage
+
+Publishers: 
+ * /av1broadcaster (http://localhost:45949/)
+ * /av2broadcaster (http://localhost:44067/)
+
+Subscribers: 
+ * /plots_publisher_node (http://localhost:41499/)
+ * /rviz (http://localhost:45979/)
+
+
+Type: visualization_msgs/MarkerArray
+
+Publishers: 
+ * /plots_publisher_node (http://localhost:41499/)
+
+Subscribers: 
+ * /rviz (http://localhost:45979/)
+
+

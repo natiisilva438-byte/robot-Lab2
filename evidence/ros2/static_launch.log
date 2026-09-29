@@ -1,0 +1,23 @@
+[INFO] [launch]: All log files can be found below /root/.ros/log/2026-09-27-00-10-06-403128-autodl-container-9804448da5-1aca5e42-4564
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [static_transform_publisher-1]: process started with pid [4570]
+[INFO] [static_transform_publisher-2]: process started with pid [4572]
+[INFO] [plots_publisher_node-3]: process started with pid [4574]
+[INFO] [rviz2-4]: process started with pid [4576]
+[static_transform_publisher-2] [WARN] [1790439008.296307397] []: Old-style arguments are deprecated; see --help for new-style arguments
+[static_transform_publisher-1] [WARN] [1790439008.298797199] []: Old-style arguments are deprecated; see --help for new-style arguments
+[static_transform_publisher-1] [INFO] [1790439008.897011072] [av1broadcaster]: Spinning until stopped - publishing transform
+[static_transform_publisher-1] translation: ('1.000000', '0.000000', '0.000000')
+[static_transform_publisher-1] rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
+[static_transform_publisher-1] from 'world' to 'av1'
+[static_transform_publisher-2] [INFO] [1790439009.096980006] [av2broadcaster]: Spinning until stopped - publishing transform
+[static_transform_publisher-2] translation: ('0.000000', '0.000000', '1.000000')
+[static_transform_publisher-2] rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
+[static_transform_publisher-2] from 'world' to 'av2'
+[plots_publisher_node-3] [INFO] [1790439009.102377083] [plots_publisher_node]: Started plot node
+[rviz2-4] QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+[plots_publisher_node-3] [INFO] [1790439009.396991065] [plots_publisher_node]: about to start heartbeat
+[plots_publisher_node-3] [INFO] [1790439009.397091673] [plots_publisher_node]: started heartbeat
+[rviz2-4] [INFO] [1790439012.399862941] [rviz2]: Stereo is NOT SUPPORTED
+[rviz2-4] [INFO] [1790439012.399994106] [rviz2]: OpenGl version: 4.5 (GLSL 4.5)
+[rviz2-4] [INFO] [1790439012.800351486] [rviz2]: Stereo is NOT SUPPORTED

@@ -1,0 +1,8 @@
+samples=30 marker_arrays=14 marker_count_set=[5]
+max_av1_radius_error=0
+max_av1_yaw_error=3.33066907e-16
+max_av2_parabola_error=1.94289029e-16
+max_relative_plane_error=4.4408921e-16
+max_relative_ellipse_error=9.99200722e-16
+max_relative_composition_error=0.0280225152
+PASS: live ROS 2 transforms and visualization markers

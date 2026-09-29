@@ -1,0 +1,25 @@
+PRETTY_NAME="Ubuntu 22.04.3 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.3 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ROS_DISTRO=humble
+ros-humble-rviz2 11.2.29-1jammy.20260908.014614
+ros-humble-tf2-ros 0.25.22-1jammy.20260804.155840
+ros-humble-turtlesim 1.4.3-1jammy.20260907.224408
+STATIC_NODES
+/av1broadcaster
+/av2broadcaster
+/plots_publisher_node
+/rviz2_node
+/transform_listener_impl_55689d7e4eb0
+/transform_listener_impl_55689eb69670
+TF_STATIC
+Type: tf2_msgs/msg/TFMessage
+Publisher count: 2
+Subscription count: 2
+VISUALS
+Type: visualization_msgs/msg/MarkerArray
+Publisher count: 1
+Subscription count: 1
